@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-p5-app",
+  "version": "1.0.0",
+  "description": "Sederhana Express API untuk tugas DevSecOps P5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test app.test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
